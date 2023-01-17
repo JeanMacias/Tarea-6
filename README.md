@@ -424,3 +424,61 @@ Vprom = 0V + (1.17)(6) = 7.02V
 *Solución:*
 
 ![image](https://user-images.githubusercontent.com/116774235/212790442-1849ba8c-1a13-476f-a130-4ad185c777f2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# **CONCLUSIONES**
+
+* Cada capítulo ha sido de mucha importancia para comprender cada tema redactado, de igual manera analizando cada capítulo se puede resolver cada problema planteado de una manera correcta.
+
+* Los temas de capacitores e inductores han sido de mucha ayuda al momento de resolver ejercicios y problemas acerca de circuitos.
+
+# **BIBLIOGRAFÍA**
+
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación.
